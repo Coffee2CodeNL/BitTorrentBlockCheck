@@ -249,7 +249,9 @@ namespace TorrentBlockCheck
         {
             try
             {
-                var httpWebRequest = (HttpWebRequest)WebRequest.Create("http://blockcheck.dead-pixel.nl/api.php");
+                //Pas de URL aan naar het juiste adres.
+                httpWebRequest = (HttpWebRequest)WebRequest.Create("http://blockcheck.dead-pixel.nl/api.php");
+                httpWebRequest.Proxy = null;
                 httpWebRequest.ContentType = "application/json";
                 httpWebRequest.Method = "POST";
 
