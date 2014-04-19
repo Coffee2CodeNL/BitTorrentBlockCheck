@@ -20,4 +20,9 @@ Wil jij ook weten of je ISP torrent verkeer blokkeert? Help mee! http://blockche
 ```
 
 **API Documentatie**
+
 https://github.com/iSDP/BitTorrentBlockCheck/wiki/API
+
+**To Do Lijst**
+
+https://github.com/iSDP/BitTorrentBlockCheck/wiki/To-Do
