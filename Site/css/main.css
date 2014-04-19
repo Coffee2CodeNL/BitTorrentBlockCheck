@@ -1,0 +1,207 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:300|Open+Sans|Montserrat);
+html, html a {
+    -webkit-font-smoothing: antialiased;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
+}
+body
+{
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    text-transform: none;
+    text-decoration: none;
+    letter-spacing: 0em;
+    word-spacing: 0em;
+    line-height: 1.4;
+    color: #fff;
+    background: #FFF url('../img/bg.jpg') no-repeat fixed;
+}
+#download_frame
+{
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+    width: 85px;
+    height: 100px;
+    padding-top: 10px;
+    text-align: center;
+    background-color: rgba(0,0,0,0.3);
+}
+#download_frame a
+{
+    text-decoration: none;
+    color: #FFF;
+}
+#download_frame:hover
+{
+    background-color: rgba(0,0,0,0.8);
+    -webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.9);
+    -moz-box-shadow:    0px 0px 10px 0px rgba(0, 0, 0, 0.9);
+    box-shadow:         0px 0px 10px 0px rgba(0, 0, 0, 0.9);
+}
+#download_frame:active
+{
+    background-color: rgba(0,0,0,0.8);
+    -webkit-box-shadow: inset 0px 0px 10px 0px rgba(0, 0, 0, 0.9);
+    -moz-box-shadow:    inset 0px 0px 10px 0px rgba(0, 0, 0, 0.9);
+    box-shadow:         inset 0px 0px 10px 0px rgba(0, 0, 0, 0.9);
+}
+.downicon
+{
+    margin-bottom: 5px;
+}
+#container
+{
+    width: 1000px;
+    height: 660px;
+}
+
+#header
+{
+    width: 1000px;
+    height: 50px;
+    background-color: #bdc3c7;
+    margin-bottom: 10px;
+}
+
+#body
+{
+    width: 1000px;
+    height: 600px;
+    background-color: #bdc3c7;
+}
+#footer
+{
+    background-color: #7f8c8d;
+    position: relative;
+    bottom:170px;
+    left:0;
+    right:0;
+    height: 125px;
+    text-align: center;
+    padding-top: 25px;
+    font-size: 75%;
+}
+#tiles
+{
+    position: relative;
+    width: 800px;
+    height: 120px;
+    padding-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#last_reports
+{
+    position: relative;
+    width: 800px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+}
+#last_reports h2
+{
+    font-family: Montserrat,sans-serif;
+    color: #FFF;
+}
+#last_reports th
+{
+    text-align: left;
+    background-color: #7f8c8d;
+}
+#last_reports td
+{
+    font-family: "Open Sans", sans-serif;
+    font-size: 75%;
+    padding-right: 15px;
+}
+#last_reports table
+{
+    border-collapse: collapse;
+}
+#last_reports tr:nth-child(even) {
+    background-color: #34495e;
+}
+#last_reports tr:nth-child(odd) {
+    background-color: #2c3e50;
+}
+.trackertile
+{
+    background-color: #95a5a6;
+    color: #FFF;
+    font-family: "Open Sans",sans-serif;
+    width: 120px;
+    height: 140px;
+    margin-right: 50px;
+    float: left;
+}
+.tilebody
+{
+    width:120px;
+    height: 100px;
+    color: #7f8c8d;
+}
+.lasttile
+{
+    margin-right: 0px;
+}
+.tileheader
+{
+    background-color: #7f8c8d;
+    font-family: Lato,sans-serif;
+    width: 120px;
+    height: 20px;
+    text-align: center;
+}
+.tileup
+{
+    width: 55px;
+    height: 20px;
+    background-color: #27ae60;
+    float:left;
+    padding-left: 5px;
+    overflow: visible;
+}
+.tiledown
+{
+    width: 55px;
+    height: 20px;
+    background-color: #c0392b;
+    float:left;
+    padding-left: 5px;
+    overflow: visible;
+}
+.tilenumber
+{
+    font-family: 'Lato', sans-serif;
+    font-size: 150%;
+    position: relative;
+    top: -4px;
+    left: 6px;
+}
+#tiles .fa
+{
+    position: relative;
+    top: -7px;
+}
+h1
+{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    text-transform: none;
+    text-decoration: none;
+    letter-spacing: 0em;
+    word-spacing: 0em;
+    line-height: 1.4;
+    margin: 0;
+    padding: 0;
+}
+.center
+{
+    text-align: center;
+}
