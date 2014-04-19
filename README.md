@@ -16,5 +16,5 @@ Voor vragen kan je contact opnemen via remon@dead-pixel.nl
 ```
 **Of de korte tekst voor Twitter:**
 ```
-Wil jij ook weten of je ISP torrent verkeer blokkeert? Help mee! http://blockcheck.dead-pixel.nl #stopdownloadverbod #fuckhetdownloadverbod
+Wil jij ook weten of je ISP torrent verkeer blokkeert? Help mee! http://blockcheck.dead-pixel.nl #stopdownloadverbod #downloadverbod
 ```
