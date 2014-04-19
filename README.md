@@ -18,3 +18,6 @@ Voor vragen kan je contact opnemen via remon@dead-pixel.nl
 ```
 Wil jij ook weten of je ISP torrent verkeer blokkeert? Help mee! http://blockcheck.dead-pixel.nl #stopdownloadverbod #downloadverbod
 ```
+
+**API Documentatie**
+https://github.com/iSDP/BitTorrentBlockCheck/wiki/API
