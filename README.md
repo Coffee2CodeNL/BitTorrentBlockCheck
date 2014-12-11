@@ -4,7 +4,7 @@ BitTorrentBlockCheck
 Deze tool is geschreven door mij om met een community in de gaten te houden of torrent trackers worden geblokkeerd door je ISP.
 Als je bugs, errors of iets anders in de code ziet, gelieve een issue aan te maken :)
 
-Dit project word nu gehost op: <strike>http://blockcheck.dead-pixel.nl</strike>
+Dit project word nu gehost op: **Tijdelijk Offline**
 
 **Eventueel kan je ook deze tekst delen op Facebook of andere sociale netwerken:**
 ```
